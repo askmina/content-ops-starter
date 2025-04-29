@@ -1,7 +1,7 @@
 ---
 title: Coming Soon
 slug: life-of-our-development-team
-date: '2025-01-15'
+date: '2025-04-29'
 excerpt: ''
 featuredImage:
   url: /images/abstract-feature3.svg
