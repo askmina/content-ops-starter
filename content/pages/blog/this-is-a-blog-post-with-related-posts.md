@@ -10,7 +10,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/empathy-logo.svg
+  url: /images/emo12.jpg
   altText: Thumbnail
   elementId: ''
   styles:
