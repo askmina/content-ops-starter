@@ -3,7 +3,7 @@ type: PostLayout
 title: >-
   The Empire Is Tired — A Collective Message for Visionaries, Healers, and High
   Achievers
-date: '2025-04-04'
+date: '2025-04-29'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
