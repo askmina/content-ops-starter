@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: This is a blog post with related posts
+title: >-
+  The Empire Is Tired — A Collective Message for Visionaries, Healers, and High
+  Achievers
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
