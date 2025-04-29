@@ -64,7 +64,7 @@ styles:
   self:
     flexDirection: col
 ---
-## ![](/images/emo1.jpg)Why This Message Is for You
+## Why This Message Is for You
 
 This isn’t a motivational post. It isn’t about hustle or hype.
 
@@ -72,7 +72,9 @@ It’s a letter to those who carry the weight.
 
 To those who’ve built empires, led movements, served others, and shown up — even when their soul was quietly asking for a moment to breathe.
 
-And it’s also for those who haven’t “made it” yet in the world’s eyes, but are deep in the unseen trenches of becoming. If you’re navigating a major inner shift — this is for you, too.
+## And it’s also for those who haven’t “made it” yet in the world’s eyes, but are deep in the unseen trenches of becoming. If you’re navigating a major inner shift — this is for you, too.
+
+![](/images/emo1.jpg)
 
 ## The Current Energy: A Soul-Level Exhaustion
 
