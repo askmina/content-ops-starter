@@ -49,16 +49,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      Bridging Intuition, Innovation, and Infinite Possibility.
 
       I blend intuition, strategy, creativity, and deep research to help you
       explore unseen opportunities — within yourself, your business, and the
       future.
-
-
-      ⚡ Intuition Meets Innovation. Vision Meets Execution. ⚡
-
-
 
     actions: []
     elementId: null
