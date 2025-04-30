@@ -95,7 +95,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Intuitive Insights
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
