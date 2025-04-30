@@ -40,7 +40,7 @@ sections:
           - pr-16
   - type: GenericSection
     title:
-      text: Messages By Mina
+      text: ''
       color: text-dark
       styles:
         self:
