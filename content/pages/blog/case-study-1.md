@@ -2,11 +2,7 @@
 title: itsbymina
 slug: case-study-1
 date: ''
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: youtube
 featuredImage:
   url: /images/IMG_4177.jpeg
   altText: Case study 1
