@@ -97,6 +97,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/head.jpg
   - title:
       text: Social Media Management
       color: text-dark
