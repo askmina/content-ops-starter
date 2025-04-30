@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: ''
+      - label: messagesbymina
         altText: ''
         url: /
         showIcon: false
