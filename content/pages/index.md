@@ -40,7 +40,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: 'recent posts '
+        url: 'https://itsbymina.netlify.app/blog/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
