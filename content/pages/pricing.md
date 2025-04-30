@@ -40,7 +40,8 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/MessagesByMina_square.jpg
+          url: >-
+            /images/vecteezy_youtube-logo-for-popular-online-media-content-creation_22721714.png
           altText: Placeholder image
           styles:
             self:
