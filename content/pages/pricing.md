@@ -94,7 +94,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Intuitive Insights
+        title: Intuitive Insights Written Format
         tagline: ''
         subtitle: ''
         text: ''
