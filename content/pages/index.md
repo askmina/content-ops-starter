@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: "\U0001F48E Explore the Unseen | Messages by Mina"
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: ''
     text: ''
