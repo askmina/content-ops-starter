@@ -36,7 +36,7 @@ sections:
       - type: FeaturedItem
         title: Youtube Readings
         tagline: 'Live, Channeled, Insights'
-        subtitle: This is the item subtitle
+        subtitle: ⚡ Intuition Meets Innovation. Vision Meets Execution. ⚡
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
