@@ -68,7 +68,15 @@ sections:
         title: Private Readings
         tagline: This is the tagline
         subtitle: ''
-        text: "\U0001F48C Ways to Connect:\n• Personal Readings, Coaching, and Digital Resources ➔ https\\://messagesbymina.gumroad.com/\n• Collaborations, Interviews, Business Inquiries ➔ messagesbymina\\@gmail.com\n• Support the Channel (Tips/Donations) ➔ https\\://paypal.me/messagesbymina \U0001F90D\n\n"
+        text: >+
+
+          • [Personal Readings, Coaching, and Digital Resources
+          ](https://messagesbymina.gumroad.com/)
+
+          •[ Support the Channel
+          (Tips/Donations)](https://paypal.me/messagesbymina) 
+
+
         image:
           type: ImageBlock
           altText: Placeholder image
