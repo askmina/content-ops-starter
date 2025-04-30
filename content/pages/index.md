@@ -19,6 +19,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://messagesbymina.gumroad.com/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
