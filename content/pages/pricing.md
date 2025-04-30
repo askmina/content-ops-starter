@@ -2,27 +2,6 @@
 title: Pricing
 slug: pricing
 sections:
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: "\U0001F48E Explore the Unseen | Messages by Mina"
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
