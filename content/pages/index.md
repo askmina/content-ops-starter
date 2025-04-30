@@ -32,6 +32,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Screenshot 2025-04-30 at 5.31.06 AM.png
     badge:
       label: ''
       color: text-primary
