@@ -97,8 +97,7 @@ sections:
         title: Intuitive Insights via Text.
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           altText: Placeholder image
