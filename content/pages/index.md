@@ -12,7 +12,7 @@ sections:
     actions:
       - label: messagesbymina
         altText: ''
-        url: /youtube.com
+        url: 'https://www.youtube.com/@messagesbymina'
         showIcon: false
         icon: arrowRight
         iconPosition: right
