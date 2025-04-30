@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: tip through paypal
         altText: paypal
         url: 'https://www.paypal.com/paypalme/messagesbymina'
         showIcon: false
