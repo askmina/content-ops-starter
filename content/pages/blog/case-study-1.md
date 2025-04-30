@@ -52,6 +52,9 @@ bottomSections:
             borderRadius: none
             flexDirection: row
         type: FeaturedItem
+        text: >
+          [**`personal youtube
+          `**](https://www.youtube.com/channel/UCSjUt_ieDPHJ7T-FEFFn-Ig/playlists?view=1)
     variant: small-list
     colors: bg-light-fg-dark
     styles:
