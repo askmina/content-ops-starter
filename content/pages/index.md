@@ -30,7 +30,7 @@ sections:
         elementId: ''
       - type: Button
         label: Get started
-        altText: ''
+        altText: paypal
         url: 'https://www.paypal.com/paypalme/messagesbymina'
         showIcon: false
         icon: arrowRight
