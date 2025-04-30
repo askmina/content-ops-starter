@@ -45,6 +45,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 700
       type: TitleBlock
     subtitle: ''
     text: >+
