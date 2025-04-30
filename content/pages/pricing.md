@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ' Bridging Intuition, Innovation, and Infinite Possibility. I blend intuition, strategy, creativity, and deep research to help you explore unseen opportunities — within yourself, your business, and the future.'
+    subtitle: ' Bridging Intuition, Innovation, and Infinite Possibility.'
     plans:
       - title: Developers
         price: Free
