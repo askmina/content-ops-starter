@@ -20,7 +20,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: book a reading
         altText: ''
         url: 'https://messagesbymina.gumroad.com/'
         showIcon: false
