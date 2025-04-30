@@ -1,5 +1,5 @@
 ---
-title: itsbymina
+title: '@itsbymina'
 slug: case-study-1
 date: ''
 excerpt: youtub
