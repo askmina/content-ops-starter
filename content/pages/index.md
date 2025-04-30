@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'ItsByMina '
 slug: /
 sections:
   - type: GenericSection
