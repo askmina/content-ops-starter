@@ -84,7 +84,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: "Bridging Intuition, Innovation, and Infinite Possibility.\nI blend intuition, strategy, creativity, and deep research to help you explore unseen opportunities — within yourself, your business, and the future.\n\n\U0001F48C Ways to Connect:\n• Personal Readings, Coaching, and Digital Resources ➔ <https://messagesbymina.gumroad.com/>\n• Collaborations, Interviews, Business Inquiries ➔ <messagesbymina@gmail.com>\n• Support the Channel (Tips/Donations) ➔ <https://paypal.me/messagesbymina> \U0001F90D\n\n⚡ Intuition Meets Innovation. Vision Meets Execution. ⚡\n"
     actions: []
     media:
