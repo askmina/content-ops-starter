@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: "\U0001F48E Explore the Unseen | Messages by Mina"
     plans:
       - title: Developers
         price: Free
