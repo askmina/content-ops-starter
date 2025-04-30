@@ -96,7 +96,7 @@ sections:
       - type: FeaturedItem
         title: Intuitive Insights Written Format
         tagline: ''
-        subtitle: ''
+        subtitle: Never miss a video.
         text: ''
         image:
           type: ImageBlock
