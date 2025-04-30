@@ -35,7 +35,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Youtube Readings
-        tagline: This is the tagline
+        tagline: 'Live, Channeled, Insights'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
