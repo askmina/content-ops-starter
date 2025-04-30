@@ -74,7 +74,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/Screenshot 2025-04-30 at 10.40.59 AM.png
+          url: /images/MessagesByMina_square.jpg
           altText: Placeholder image
           styles:
             self:
