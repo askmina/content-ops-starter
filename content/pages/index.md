@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: youtube
+      - label: youtube readings
         altText: ''
         url: 'https://www.youtube.com/@messagesbymina'
         showIcon: false
