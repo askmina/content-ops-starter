@@ -75,12 +75,10 @@ sections:
           fontWeight: 700
       type: TitleBlock
     subtitle: ''
-    text: >+
-
+    text: >
       I blend intuition, strategy, creativity, and deep research to help you
       explore unseen opportunities — within yourself, your business, and the
       future.
-
     actions: []
     elementId: null
     colors: bg-light-fg-dark
