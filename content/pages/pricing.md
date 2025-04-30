@@ -45,7 +45,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Link
+            label: YouTube
+            altText: YouTube
+            url: '/https://www.youtube.com/@messagesbymina'
+            showIcon: true
+            icon: youtube
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
