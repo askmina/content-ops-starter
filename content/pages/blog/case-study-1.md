@@ -24,10 +24,7 @@ bottomSections:
   - items:
       - title: '@itsbymina'
         tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+        subtitle: ''
         image:
           url: >-
             /images/vecteezy_youtube-logo-for-popular-online-media-content-creation_22721714.png
