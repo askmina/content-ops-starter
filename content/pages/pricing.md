@@ -72,7 +72,6 @@ sections:
           Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/MessagesByMina_square.jpg
           altText: Placeholder image
           styles:
             self:
