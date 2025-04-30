@@ -29,7 +29,8 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/telus-logo.svg
+          url: >-
+            /images/vecteezy_youtube-logo-for-popular-online-media-content-creation_22721714.png
           altText: Company logo
           styles:
             self:
