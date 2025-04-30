@@ -70,7 +70,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/MessagesByMina_square.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
