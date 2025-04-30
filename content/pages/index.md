@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Explore the Unseen | Messages by Mina
-      color: text-neutral
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: ''
