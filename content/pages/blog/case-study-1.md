@@ -82,5 +82,6 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+isDraft: false
 ---
 youtube
