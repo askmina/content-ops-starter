@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "\U0001F52E Book a reading\n"
+    text: ''
     actions:
       - label: youtube
         altText: ''
