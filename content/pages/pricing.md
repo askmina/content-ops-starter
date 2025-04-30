@@ -26,7 +26,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: "\U0001F48E Explore the Unseen | Messages by Mina"
       color: text-primary
       styles:
         self:
