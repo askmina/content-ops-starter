@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Messages By Mina
+      text: "\U0001F48E Explore the Unseen | Messages by Mina"
       color: text-dark
       styles:
         self:
