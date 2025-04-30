@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: "\U0001F48E Explore the Unseen | Messages by Mina"
+    subtitle: ' Bridging Intuition, Innovation, and Infinite Possibility. I blend intuition, strategy, creativity, and deep research to help you explore unseen opportunities — within yourself, your business, and the future.'
     plans:
       - title: Developers
         price: Free
