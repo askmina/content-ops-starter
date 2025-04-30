@@ -68,15 +68,14 @@ sections:
         title: Private Readings
         tagline: This is the tagline
         subtitle: ''
-        text: >+
-
+        text: >
           • [Personal Readings, Coaching, and Digital Resources
           ](https://messagesbymina.gumroad.com/)
 
+
+
           •[ Support the Channel
-          (Tips/Donations)](https://paypal.me/messagesbymina) 
-
-
+          (Tips/Donations)](https://paypal.me/messagesbymina)
         image:
           type: ImageBlock
           altText: Placeholder image
