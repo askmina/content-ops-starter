@@ -4,36 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      I blend intuition, strategy, creativity, and deep research to help you
-      explore unseen opportunities — within yourself, your business, and the
-      future.
-    actions: []
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-    media:
-      type: ImageBlock
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-  - type: GenericSection
-    title:
       text: Explore the Unseen | Messages by Mina
       color: text-neutral
       type: TitleBlock
@@ -95,6 +65,36 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      I blend intuition, strategy, creativity, and deep research to help you
+      explore unseen opportunities — within yourself, your business, and the
+      future.
+    actions: []
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title: Divider
     colors: bg-light-fg-dark
     styles:
