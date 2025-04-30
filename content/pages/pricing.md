@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: messagesbymina
 slug: pricing
 sections:
   - type: FeaturedItemsSection
