@@ -94,7 +94,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Intuitive Insights via Text.
+        title: Intuitive Insights
         tagline: This is the tagline
         subtitle: ''
         text: ''
