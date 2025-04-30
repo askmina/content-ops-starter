@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: "\U0001F48E Explore the Unseen | Messages by Mina"
       color: text-dark
       type: TitleBlock
     subtitle: "\U0001F52E Book a reading"
