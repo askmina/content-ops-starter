@@ -1,5 +1,5 @@
 ---
-title: messagesbymina
+title: in
 slug: case-study-1
 date: ''
 excerpt: >-
