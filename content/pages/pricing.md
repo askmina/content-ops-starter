@@ -35,7 +35,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Youtube Readings
-        tagline: 'Live, Channeled, Insights'
+        tagline: ''
         subtitle: ⚡ Intuition Meets Innovation. Vision Meets Execution. ⚡
         text: ''
         image:
