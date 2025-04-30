@@ -37,8 +37,7 @@ sections:
         title: Youtube Readings
         tagline: 'Live, Channeled, Insights'
         subtitle: ⚡ Intuition Meets Innovation. Vision Meets Execution. ⚡
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: "\U0001F48C Ways to Connect:\n• Personal Readings, Coaching, and Digital Resources ➔ https\\://messagesbymina.gumroad.com/\n• Collaborations, Interviews, Business Inquiries ➔ messagesbymina\\@gmail.com\n• Support the Channel (Tips/Donations) ➔ https\\://paypal.me/messagesbymina \U0001F90D\n\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
