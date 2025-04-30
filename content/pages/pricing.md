@@ -95,7 +95,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Intuitive Insights Written Format
-        tagline: ''
+        tagline: Never miss a video.
         subtitle: ''
         text: ''
         image:
