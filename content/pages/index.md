@@ -91,7 +91,7 @@ sections:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=Srse5aR_R9s'
       autoplay: false
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
