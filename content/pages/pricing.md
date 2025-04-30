@@ -37,12 +37,7 @@ sections:
         title: Youtube Readings
         tagline: 'Live, Channeled, Insights'
         subtitle: ⚡ Intuition Meets Innovation. Vision Meets Execution. ⚡
-        text: |+
-          ```
-
-          • Personal Readings, Coaching, and Digital Resources ➔ 
-          ```
-
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
