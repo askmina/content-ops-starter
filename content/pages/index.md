@@ -38,7 +38,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: recent posts
         altText: ''
         url: 'https://itsbymina.netlify.app/blog/'
         showIcon: false
