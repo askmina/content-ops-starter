@@ -2,7 +2,7 @@
 title: itsbymina
 slug: case-study-1
 date: ''
-excerpt: youtube
+excerpt: youtub
 featuredImage:
   url: /images/IMG_4177.jpeg
   altText: Case study 1
