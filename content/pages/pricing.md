@@ -5,7 +5,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: "\U0001F48E Explore the Unseen | Messages by Mina Bridging Intuition, Innovation, and Infinite Possibility"
       color: text-dark
       styles:
         self:
