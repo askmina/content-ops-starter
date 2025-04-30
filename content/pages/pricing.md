@@ -66,7 +66,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Private Readings
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           • [Personal Readings, Coaching, and Digital Resources
